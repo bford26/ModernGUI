@@ -91,7 +91,7 @@ namespace blf
             char* scale = nullptr;
             double* ticks = nullptr;
             char** tickLabels = nullptr;
-        }
+        };
 
         class Figure
         {
@@ -140,7 +140,7 @@ namespace blf
             char* ylabel = nullptr;
             char* title = nullptr;
 
-        }
+        };
 
     }
 }
